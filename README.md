@@ -39,4 +39,5 @@ THEN the saved events persist
 * https://github.com/vcapella/05_day-planner
 
 # Mockup
+![WD Schedule](https://user-images.githubusercontent.com/90168071/136498369-d2cf2174-d7dd-45bb-bc0b-64e6f2774e3a.gif)
 
